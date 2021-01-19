@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 **I’m currently working on:** too many sideprojects @ github
-- 🌱 **I’m currently learning:** TypeScript
+- 🌱 **I’m currently learning:** fsharp
 - 👯 **I’m looking to collaborate on:** dotnet MAUI
 - 🥳 **I’m hyped about:** WebAssembly
 - 💬 **Ask me about:** remote & nomadic work

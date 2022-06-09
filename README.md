@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="70" height="70"/>
 <h1> Hi there 👋</h1>
 </div>
 🔭 <b>I’m currently working on:</b> too many sideprojects @ github<br />
@@ -11,5 +11,5 @@
 👤 <b>Pronouns:</b> he / him<br />
 ⚡️ <b>Fun fact:</b> 95% of my sideprojects are stuck at the last 5%<br />
 <div align="center">
-      <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="25" height="25"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="70" height="70"/>
 </div>

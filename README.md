@@ -8,6 +8,7 @@
 🥳 <b>I’m hyped about:</b> WebAssembly<br />
 💬 <b>Ask me about:</b> remote & nomadic work<br />
 📫 <b>How to reach me:</b> www.johnnys.page<br />
+📰 <b>How to read my blog:</b> www.johnnys.news<br />
 👤 <b>Pronouns:</b> he / him<br />
 ⚡️ <b>Fun fact:</b> 95% of my sideprojects are stuck at the last 5%<br />
 <div align="center">

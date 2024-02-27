@@ -21,5 +21,7 @@
 <div align="center">
       <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="70" height="70"/>
 </div>
-
+<div align="center">
+<hr />
 MTFBWYA ✨
+</div>

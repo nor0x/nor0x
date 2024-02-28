@@ -9,8 +9,8 @@
 </div>
 🔭 <b>I’m currently working on:</b> too many sideprojects @ github<br />
 🌱 <b>I’m currently learning:</b> fsharp<br />
-🧪 <b>I’m experimenting with:</b> dotnet MAUI<br />
-🥳 <b>I’m hyped about:</b> WebAssembly<br />
+🧪 <b>I’m experimenting with:</b> Svelte + TypeScript<br />
+🥳 <b>I’m hyped about:</b> ML | dotnet | WASM<br />
 💬 <b>Ask me about:</b> remote & nomadic work<br />
 📫 <b>How to reach me:</b> www.johnnys.page<br />
 📰 <b>How to read my blog:</b> www.johnnys.news<br />

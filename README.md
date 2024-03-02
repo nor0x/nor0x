@@ -12,9 +12,10 @@
 🧪 <b>I’m experimenting with:</b> Svelte + TypeScript<br />
 🥳 <b>I’m hyped about:</b> ML | dotnet | WASM<br />
 💬 <b>Ask me about:</b> remote & nomadic work<br />
-📫 <b>How to reach me:</b> www.johnnys.page<br />
-📰 <b>How to read my blog:</b> www.johnnys.news<br />
-🍱 <b>Here is my bento: </b> www.bento.me/johnny<br />
+📫 <b>How to reach me:</b> <a href="https://johnnys.page">johnnys.page</a><br />
+📰 <b>Here is my blog:</b> <a href="https://johnnys.news">johnnys.news</a><br />
+🎨 <b>This is my portfolio:</b> <a href="https://johnnys.page/portfolio">johnnys.page/portfolio</a><br />
+🍱 <b>Here is my bento: </b> <a href="bento.me/johnny">bento.me/johnny</a><br />
 
 👤 <b>Pronouns:</b> he / him<br />
 ⚡️ <b>Fun fact:</b> 95% of my sideprojects are stuck at the last 5%<br />

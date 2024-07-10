@@ -26,6 +26,7 @@
 <div align="center">
 <hr />
 here are some stats 📊🧪📈
+<br />
 
 <a href="https://github.com/nor0x">
   <img align="center" width="49%" src="./header.svg" />

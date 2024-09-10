@@ -2,7 +2,9 @@
       <img src="https://raw.githubusercontent.com/nor0x/nor0x/main/waiting.gif" width="50" height="50"/>
 
 <p>
-<img src="https://raw.githubusercontent.com/nor0x/nor0x/main/banner.png" height="420" />
+      <div style="width:100vw">
+<img src="https://raw.githubusercontent.com/nor0x/nor0x/main/banner.png" width="100%" />
+      </div>
       </p>
 
 <hr />

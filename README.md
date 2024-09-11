@@ -39,37 +39,26 @@
   <img align="center" width="100%" src="./header.svg" />
 </a>
 <br/>
-<a href="https://github.com/nor0x">
-  <img align="center" width="auto" src="./repositories.svg" />
-</a>
-<a href="https://github.com/nor0x">
-  <img align="center" width="auto" src="./acti_comm.svg" />
-</a>
+
+  <img align="center" width="49%" height="auto" src="./repositories.svg" />
+  <img align="center" width="49%" height="auto" src="./acti_comm.svg" />
 <br/>
 
-<a href="https://github.com/nor0x">
-  <img align="center" width="auto" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/nor0x">
-    <img align="center" width="auto" src="./issue_pr_lang.svg" />
-</a>
+  <img align="center" width="49%" src="./iso_calender.svg" />
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
 
 
 <br/>
-<a href="https://github.com/nor0x">
-  <img align="center" width="auto" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/nor0x">
-    <img align="center" width="auto" src="./stargazers-worldmap.svg" />
-</a>
+  <img align="center" width="49%" src="./github-habits.svg" />
+    <img align="center" width="49%" src="./stargazers-worldmap.svg" />
 
 <br />
 
 </div>
 <hr />
-
-MTFBWYA ✨
-
+<div align="center">
+      MTFBWYA ✨
+</div>
 <div align="center">
       <img src="https://raw.githubusercontent.com/nor0x/nor0x/main/waitingreverse.gif" width="50" height="50"/>
 

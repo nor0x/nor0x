@@ -25,6 +25,7 @@
 🎨 <b>This is my portfolio:</b> <a href="https://johnnys.page/portfolio">johnnys.page/portfolio</a><br />
 🍱 <b>Here is my bento: </b> <a href="https://bento.me/johnny">bento.me/johnny</a><br />
 📃 <b>Here is my cv: </b> <a href="https://j0hnny.read.cv/">j0hnny.read.cv</a><br />
+💸 <b>You can sponsor me: </b> <a href="https://bento.me/nor0x">bento.me/nor0x</a><br />
 
 👤 <b>Pronouns:</b> he / him<br />
 ⚡️ <b>Fun fact:</b> 95% of my sideprojects are stuck at the last 5%<br />

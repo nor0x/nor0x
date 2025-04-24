@@ -41,7 +41,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/nor0x">
-  <img align="center" width="100%" src="./header.svg" />
+  <img align="center" width="49%" src="./header.svg" />
 </a>
 <br/>
 

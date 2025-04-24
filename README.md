@@ -2,7 +2,11 @@
       <img src="https://raw.githubusercontent.com/nor0x/nor0x/main/waiting.gif" width="50" height="50"/>
 
 <p>
+            <div>
+            <a href="https://nor0x.github.io/TypoGraph/"><img src="https://github.com/user-attachments/assets/cfd5f486-4107-4d02-922f-95e23f3a904b" width="78%" /></a>
+            </div>
       <div style="width:100vw">
+
 <img src="https://raw.githubusercontent.com/nor0x/nor0x/main/banner.png" width="100%" />
       </div>
       </p>
